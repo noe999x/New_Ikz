@@ -8,6 +8,7 @@
 - All Country
 
 ## Install
+- $ pkg update && pkg upgrade
 - $ git clone https://github.com/kagurazaga/New_Ikz
 - $ cd New_Ikz
 - $ pip2 install requests
