@@ -7,7 +7,12 @@
 > Crack With Number Phone
 - All Country
 
+## Picture
+
+<img src="https://github.com/Kagurazaga/New_Ikz/
+
 ## Install
+```
 - $ pkg update && pkg upgrade
 - $ git clone https://github.com/kagurazaga/New_Ikz
 - $ cd New_Ikz
@@ -15,6 +20,7 @@
 - $ pip2 install tqdm
 - $ pip2 install mechanize
 - $ python2 ikz.py
+```
 
 #### Find Me On Social Media !
 
