@@ -9,7 +9,7 @@
 
 ## Picture
 
-<img src="https://github.com/Kagurazaga/New_Ikz/Screenshot_2020-08-19-19-18-37-507_com.termux.png>
+<img src="https://github.com/Kagurazaga/New_Ikz/blob/master/Screenshot_2020-08-19-19-18-37-507_com.termux.png>
 
 ## Install
 ```
