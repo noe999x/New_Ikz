@@ -1,5 +1,5 @@
 # Facebook Bruteforce Tool
-> No Login Required
+& No Login Required
 > Crack With Email
 - Yahoo
 - Gmail
