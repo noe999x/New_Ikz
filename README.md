@@ -1,5 +1,6 @@
 # Facebook Bruteforce Tool
-! No Login Required !
+Ikz Tools 1
+ No Login Required !
 > Crack With Email
 - Yahoo
 - Gmail
@@ -13,13 +14,13 @@
 
 ## Install
 ```
-- $ pkg update && pkg upgrade
-- $ git clone https://github.com/kagurazaga/New_Ikz
-- $ cd New_Ikz
-- $ pip2 install requests
-- $ pip2 install tqdm
-- $ pip2 install mechanize
-- $ python2 ikz.py
+$ pkg update && pkg upgrade
+$ git clone https://github.com/kagurazaga/New_Ikz
+$ cd New_Ikz
+$ pip2 install requests
+$ pip2 install tqdm
+$ pip2 install mechanize
+$ python2 ikz.py
 ```
 
 #### Find Me On Social Media !
