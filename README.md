@@ -7,10 +7,6 @@ Ikz Tools 2<br>No Login Required !
 > Crack With Number Phone
 - All Country
 
-## Picture
-
-<img src="https://github.com/Kagurazaga/New_Ikz/blob/master/Screenshot_2020-09-03-13-27-44-183_com.termux.png">
-
 ## Install
 ```
 $ pkg update && pkg upgrade
